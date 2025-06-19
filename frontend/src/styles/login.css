@@ -1,0 +1,14 @@
+.auth-form{
+    border: solid rgba(71, 138, 255, 0.597) 0.17rem;
+    border-radius: 0.25rem;
+    margin-left: 37%;
+    margin-top: 13%;
+    width: 18rem;
+    padding: 1rem;
+}
+.form-group{
+    padding-bottom: 0.53rem;
+}
+input[type='checkbox']+span{
+    font-size: 10pt;
+}

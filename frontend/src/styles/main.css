@@ -1,0 +1,5 @@
+#first_frame{
+    background: #ffffff;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 1) 48%, rgba(130, 245, 243, 1) 100%);
+    text-align: center;
+}

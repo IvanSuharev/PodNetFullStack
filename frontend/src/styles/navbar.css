@@ -1,0 +1,24 @@
+.LINK{
+    text-decoration: none !important;
+    color: black !important;
+    margin-left: 5%;
+}
+#podnet{text-decoration: none !important;
+        color: #478BFF !important;
+        font-weight: bolder;
+}
+.LINK + input[type='text']{
+    margin-left: 30%;
+}
+input[type='text']+.LINK{
+    margin-left: 0%;
+}
+*{font-family:'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+nav{
+    margin-left: 10%;
+    margin-top: 0.9%;
+    font-size: 1.5rem;
+}

@@ -1,0 +1,11 @@
+#chats{
+    display: inline-block;
+    background-color: aqua;
+    margin-left: 10%;
+    width: 20%;
+}
+#main_chat{
+    display: inline-block;
+    background-color: aquamarine;
+    width: 50%;
+}
